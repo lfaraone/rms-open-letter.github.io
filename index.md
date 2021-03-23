@@ -243,4 +243,4 @@ Signed,
 - Yorik van Havre
 - Yvan Sraka
 - Zach van Rijn
-
+- Luke Faraone (Debian FTP master, Ubuntu developer, former English Wikipedia Arbitration Committee member)
